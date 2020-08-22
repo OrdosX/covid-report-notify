@@ -9,23 +9,23 @@
 
 * 关注后自动发送欢迎信息和示例提醒
 
-  ![01](https://share.ordosx.tech/notify/notify-01.jpg)
+  <img src="assets/01.jpg" width="50%" height="50%">
 
 * 回复“启用提醒”之后，每天9:30会发送一条提醒
 
-  ![02](https://share.ordosx.tech/notify/notify-02.jpg)
+  <img src="assets/02.jpg" width="50%" height="50%">
 
 * 点击提醒卡片附带的链接可以直接进入打卡页面
 
-  ![03](https://share.ordosx.tech/notify/notify-03.gif)
+  <img src="assets/03.gif" width="50%" height="50%">
 
 * 回复“关闭提醒”即可取消定时提醒
 
-  ![04](https://share.ordosx.tech/notify/notify-04.jpg)
+  <img src="assets/04.jpg" width="50%" height="50%">
 
 * 回复其他内容则发送帮助信息
 
-  ![05](https://share.ordosx.tech/notify/notify-05.jpg)
+  <img src="assets/05.jpg" width="50%" height="50%">
 
 ## 实现方法简介
 
@@ -33,7 +33,7 @@
 
 * 一个域名（如我的ordosx.tech）
 * 一台绑定到该域名的服务器（本地或云端皆可，要求一直开机）
-* 相应的服务端脚本程序（开源地址：https://github.com/OrdosX/covid-notify）
+* 相应的服务端脚本程序
 * 一个测试公众号（登录 http://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login 自动注册）
   * 在设置中填写服务器的URL
   * 在设置中填写打卡提醒的模板消息文案
@@ -65,6 +65,4 @@ A：正式的公众号中，只有账号主体为企业的服务号才有权限�
 
 ## 长按图片，扫码体验！
 
-![06](https://share.ordosx.tech/notify/notify-06.jpg)
-
-开源地址及后续通知：https://github.com/OrdosX/covid-notify
+<img src="assets/06.jpg" width="50%" height="50%">
